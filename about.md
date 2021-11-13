@@ -1,5 +1,5 @@
 ---
-title: "About
+title: About
   title: About
   description: This is the about page
   extra:
