@@ -1,5 +1,6 @@
 ---
 title: About
+seo:
   title: About
   description: This is the about page
   extra:
