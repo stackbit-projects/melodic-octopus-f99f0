@@ -1,6 +1,5 @@
 ---
-title: About
-seo:
+title: About Meeo:
   title: About
   description: This is the about page
   extra:
